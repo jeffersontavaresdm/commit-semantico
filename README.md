@@ -13,21 +13,23 @@ Os commits devem ser escrito com o seguinte formato, onde o _type_ é obrigatór
 ## Type
 O _type_ pode ser um desses tipos:
 
-X------------------------------------------------------------------------------------------------------------------------X
-| Prefixo  | Descrição                  | Significado                                                                    |
-X------------------------------------------------------------------------------------------------------------------------X
-| feat     | Features                   | Uma nova funcionalidade
-| fix      | Correções de Erros         | Uma correção de bug
-| docs     | Documentação               | Apenas mudanças na documentação
-| style    | Estilos                    | Mudanças em relação a estilização
-| refactor | Refatoração de Código      | Uma alteração de código que não corrige um bug nem adiciona uma funcionalidade
-| perf     | Melhorias de Performance   | Uma alteração de código que melhora o desempenho
-| test     | Testes                     | Adição de testes em falta ou correção de testes existentes
-| build    | Builds                     | Mudanças que afetam o sistema de build ou dependências externas
-| ci       | Integrações Contínuas      | Alterações em nossos arquivos e scripts de configuração de CI
-| chore    | Tarefas                    | Outras mudanças que não modificam arquivos de código-fonte ou de teste
-| revert   | Reverter                   | Reverte um commit anterior
-X------------------------------------------------------------------------------------------------------------------------X
+# Convenção de Mensagens de Commit
+
+| Prefixo  | Descrição                 | Significado                                                                   |
+|----------|---------------------------|-------------------------------------------------------------------------------|
+| feat     | Features                  | Uma nova funcionalidade                                                       |
+| fix      | Correções de Erros        | Uma correção de bug                                                           |
+| docs     | Documentação              | Apenas mudanças na documentação                                               |
+| style    | Estilos                   | Mudanças em relação à estilização                                             |
+| refactor | Refatoração de Código     | Uma alteração de código que não corrige um bug nem adiciona uma funcionalidade |
+| perf     | Melhorias de Performance  | Uma alteração de código que melhora o desempenho                               |
+| test     | Testes                    | Adição de testes em falta ou correção de testes existentes                     |
+| build    | Builds                    | Mudanças que afetam o sistema de build ou dependências externas                 |
+| ci       | Integrações Contínuas     | Alterações em nossos arquivos e scripts de configuração de CI                  |
+| chore    | Tarefas                   | Outras mudanças que não modificam arquivos de código-fonte ou de teste         |
+| revert   | Reverter                  | Reverte um commit anterior                                                    |
+
+
 
 ## ✒️ Autor
 
