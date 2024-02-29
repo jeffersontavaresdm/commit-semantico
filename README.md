@@ -13,8 +13,6 @@ Os commits devem ser escrito com o seguinte formato, onde o _type_ é obrigatór
 ## Type
 O _type_ pode ser um desses tipos:
 
-# Convenção de Mensagens de Commit
-
 | Prefixo  | Descrição                 | Significado                                                                   |
 |----------|---------------------------|-------------------------------------------------------------------------------|
 | feat     | Features                  | Uma nova funcionalidade                                                       |
