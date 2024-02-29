@@ -1,5 +1,5 @@
 # Commit Semântico
-Essa colinha foi baseada em dois documentos:
+Creditos:
 - [Karma Runner](https://karma-runner.github.io/6.3/dev/git-commit-msg.html)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
